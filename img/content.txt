@@ -1,0 +1,121 @@
+navigation 
+ btn = color -#f04e3c;
+about bg --
+#121212;
+
+blog section bg- #0e0e0e
+
+
+
+
+text----
+
+about - left 
+HOW WE MAKE USER EXPERIENCES
+
+hire@colorlib.com
+
+about- right
+
+You can’t use up creativity. The more you use,  <br>the more you have in your signifant mind.
+SALVADOR DALI
+Digital Artisit
+
+05
+YEARS OF
+DIGITAL EXPERIENCE
+
+
+
+----services---------
+Creative Photography
+Wedding Photography
+Nature Photography
+Duis aute irure dolor in reprehenderit in voluptate velit.
+
+
+
+----achivement section
+
+left 
+TAKE A LOOK
+AT OUR ACHIVMENT
+Excepteur sint occaecat cupidatat. irure dolor in.
+GET START
+
+
+
+right card --
+
+BEHANCE AWARD
+
+PRIZE 2019
+
+
+
+footer 
+
+f-about
+Grabbing the concsumer’s attention isn’t enough you have to keep that attention for at least a.
+
+f-navigation
+	
+Home
+Events
+Testimonial
+Categories
+Contacts
+
+USEFUL LINKS
+Registration
+Login
+Policy
+Terms & Conditions
+
+
+INSTAGRAM FEED
+
+
+
+copyright 
+
+Copyright ©2021 All rights reserved | This template is made with  by 
+
+Follow Us
+twiiter
+facebook
+browser
+instagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+master
+mini-master
+.wrapper
+.banner
+.banner .left
+.banner .right
+.about
+.about-left
+.abbout-right
+.services
+.services-box
+gallery
+
+
+
+
+
